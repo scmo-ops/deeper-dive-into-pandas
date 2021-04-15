@@ -10,7 +10,7 @@ Congratulations! After a lot of hard work in the data munging mines, you've land
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-The report includes a written description of three observable trends based on the data, and the jupyter notebook will have: 
+There will be a text file that includes a written description of three observable trends based on the data, and the jupyter notebook will have: 
 ### Player Count
 
 * Total Number of Players
