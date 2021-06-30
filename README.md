@@ -1,5 +1,5 @@
 # pandas-challenge
-The pandas-challenge for the the data analytics bootcamp
+Use pandas to filter different demographics from a set of data
 
 ## Heroes of Pymoli
 
